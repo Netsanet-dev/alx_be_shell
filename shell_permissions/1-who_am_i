@@ -1,2 +1,2 @@
-#!/usr/bin/bash
-sudo whoami
+#!/bin/bash
+sudo who am i
